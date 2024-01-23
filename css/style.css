@@ -1,0 +1,19 @@
+header {
+    background-color: white;
+    height: 100px;
+}
+
+nav {
+    background-color: white;
+}
+
+
+aside {
+    background-color: white;
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+}
